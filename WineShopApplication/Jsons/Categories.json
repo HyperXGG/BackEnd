@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Red wine",
+    "description": "A red colored wine"
+  },
+  {
+    "name": "White wine",
+    "description": "A white colored wine"
+  },
+  {
+    "name": "Pink wine",
+    "description": "A pink colored wine"
+  },
+  {
+    "name": "Whisky",
+    "description": "Whiskey is a spirit obtained from the distillation of various cereals, barley, rye and malt wort and subsequent maturation in wooden barrels."
+  },
+  {
+    "name": "Blonde beer",
+    "description": "A blonde colored beer"
+  },
+  {
+    "name": "Red beer",
+    "description": "A red colored beer"
+  },
+  {
+    "name": "Grappa",
+    "description": "Grappa is made by distilling the pomace leftover from the wine-making process"
+  }
+]
